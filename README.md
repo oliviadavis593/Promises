@@ -1,2 +1,0 @@
-# Promises
-Created with CodeSandbox
